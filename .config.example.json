@@ -1,0 +1,20 @@
+{
+  "api": {
+    "baseUrl": "http://localhost"
+  },
+  "db": {
+    "host": "localhost",
+    "name": "escaperoomrca",
+    "user": "DATABASE_USER",
+    "password": "DATABASE_PASSWORD"
+  },
+  "gemini": {
+    "apiKey": "GEMINI_API_KEY",
+    "model": "gemini-2.5-flash"
+  },
+  "game": {
+    "hintPenaltySeconds": 30,
+    "wrongAnswerPenaltySeconds": 10,
+    "maxHintsPerNode": 2
+  }
+}
