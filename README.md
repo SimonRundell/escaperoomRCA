@@ -343,7 +343,7 @@ Output is in `dist/`. Deploy the static files to any web host and ensure the PHP
 
 ## License
 
-Copyright © 2026 Simon Rundell, CodeMonkey Design, Dept of ITDD, Exeter College.
+Copyright © 2026 Simon Rundell, CodeMonkey Design, Dept of Cybersecurity and Digital Technologies, Exeter College.
 
 Released under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/) licence.
 
